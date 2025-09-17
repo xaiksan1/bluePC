@@ -1,0 +1,3 @@
+[submodule "bytebot"]
+	path = bytebot
+	url = git@github.com:xaiksan1/bytebot.git
